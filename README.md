@@ -8,6 +8,7 @@ Latest release [here](https://github.com/davghouse/RubiKa2001Tracker/releases/ta
 The tracker starts on June 27th, 2001. It tracks play time and advances the (pretend) date by a day when a configurable number of hours have passed. I chose 4 hours as the default "hours played per day" because that seems like a reasonable estimate for what an adult player with a job would've been able to do back in 2001. This value can be edited by hand in the exe.config.
 
 ![Start](/Screenshots/Start.png)
+![Progress](/Screenshots/Progress.png)
 
 Discussion
 -----------
