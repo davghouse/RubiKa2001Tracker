@@ -9,7 +9,7 @@ The tracker starts on June 27th, 2001. It tracks play time and advances the (pre
 
 Discussion
 -----------
-Properly pretending to play AO back as it was in 2001 will be tough. It might even be impossible for some professions depending on how they were affected by rebalancing throughout the years. Here are some useful links:
+Properly pretending to play AO back as it was in 2001 will be tough. It might even be impossible for some professions depending on how they were affected by rebalancing throughout the years. And of course it won't be possible to recreate all the crazy bugs and server instability. Here are some useful links:
 
 [Patch history](https://aoitems.com/history/)
 
