@@ -22,4 +22,18 @@ Properly pretending to play AO back as it was in 2001 will be tough. It might ev
 
 [Old patch discussions](https://forums-archive.anarchy-online.com/forumdisplay.php?190-Next-patch)
 
-There are some huge differences that everyone who played the game back then probably remembers, but I'll state here for any newer players. No expansions, no perks, no daily missions, and no dyna bosses. No team missions--have to use a mission key duplicator and only the pulling person gets a token. Only 1 token per consumable mission token no matter your level (so 1000 missions for a 1k board). XP permanently lost upon death and items sent to reclaim terminal (these later became mail terminals). Fall damage. Health and nano rechargers and health and nano first-aid kits were separate and significantly less effective. Composite buffs didn't exist, making early NCU management more difficult. Lots of buffs had really short durations. Lots of weapons and armor didn't exist yet (like carbonum). And there have been tons of changes to nanos that will take careful investigation using the patch numbers on aoitems to fully understand. Let me know if you can think of any other big differences!
+There are some huge differences that everyone who played the game back then probably remembers:
++ No towers/perks/research (no expansion content).
++ No daily missions.
++ No dyna bosses.
++ No team missions--have to use a mission key duplicator and only the pulling person gets a token.
++ Only 1 token per consumable mission token no matter your level (so 1000 missions for a 1k board).
++ XP permanently lost upon death and items sent to reclaim terminal (these later became mail terminals).
++ Health and nano rechargers and health and nano first-aid kits were separate and significantly less effective.
++ Composite buffs didn't exist, making early NCU management more difficult.
++ Lots of buffs had really short durations.
++ Lots of weapons and armor didn't exist yet (like carbonum).
++ Tons of changes to nanos that will take careful investigation using the patch numbers on aoitems to fully understand.
++ UI was more limited--only 1 hotkey bar allowed I'm pretty sure. Not sure about multi keybinds.
++ Big 3rd party tools probably didn't exist yet (ClickSaver, item assistant, chat bots, ingame maps).
++ Fall damage and sharks in the water :D
