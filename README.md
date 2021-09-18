@@ -35,5 +35,5 @@ There are some huge differences that everyone who played the game back then prob
 + Lots of weapons and armor didn't exist yet (like carbonum).
 + Tons of changes to nanos that will take careful investigation using the patch numbers on aoitems to fully understand.
 + UI was more limited--only 1 hotkey bar allowed I'm pretty sure. Not sure about multi keybinds.
-+ Big 3rd party tools probably didn't exist yet (ClickSaver, item assistant, chat bots, ingame maps).
++ Big 3rd party tools probably didn't exist yet (aomainframe, auno, ClickSaver, NanoNanny, ItemAssistant, chat bots, better in-game maps).
 + Fall damage and sharks in the water :D
