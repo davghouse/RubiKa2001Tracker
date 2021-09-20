@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RubiKa2001Tracker.ForumScraper": {
+      "commandName": "Project",
+      "commandLineArgs": "Tradeskills.txt https://forums-archive.anarchy-online.com/forumdisplay.php?211-Tradeskills 28"
+    }
+  }
+}
